@@ -1,0 +1,936 @@
+Tlibst
+v3
+r1
+cCheck dependencies
+cCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STVector3.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STVector3.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STColor3f.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor3f.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STColor4f.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor4f.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STColor4ub.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor4ub.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STFont.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STFont.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage_jpeg.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_jpeg.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage_png.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_png.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage_ppm.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_ppm.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STJoystick_darwin.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STJoystick_darwin.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STJoystick.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STJoystick.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STPoint2.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STPoint2.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STPoint3.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STPoint3.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STShaderProgram.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STShaderProgram.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STShape.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STShape.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STTexture.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STTexture.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STTimer.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STTimer.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STVector2.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STVector2.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cLibtool /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/libst.a normal x86_64
+
+N/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004D55C8270000000000000D03
+t1297467431
+s3331
+i"syslimits.h"
+
+N/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004D55C8260000000000003197
+t1297467430
+s12695
+i<machine/ansi.h>
+i<sys/_types.h>
+
+N/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin10/4.2.1/include/syslimits.h
+c000000004D55C5660000000000000155
+t1297466726
+s341
+
+N/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004B4834EA00000000000005FF
+t1263023338
+s1535
+
+N/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC3E8CB0000000000000AF4
+t1287907531
+s2804
+
+N/System/Library/Frameworks/IOKit.framework/Headers/IOCFPlugIn.h
+c000000004CC3E98400000000000008FD
+t1287907716
+s2301
+
+N/System/Library/Frameworks/IOKit.framework/Headers/IOKitLib.h
+c000000004CC3E9840000000000012048
+t1287907716
+s73800
+
+N/System/Library/Frameworks/IOKit.framework/Headers/hid/IOHIDKeys.h
+c000000004CC3EAB8000000000000394F
+t1287908024
+s14671
+
+N/System/Library/Frameworks/IOKit.framework/Headers/hid/IOHIDLib.h
+c000000004CC3E9840000000000000609
+t1287907716
+s1545
+
+N/System/Library/Frameworks/Kernel.framework/Headers/IOKit/hidsystem/IOHIDUsageTables.h
+c000000004CC3EAB800000000000182B5
+t1287908024
+s98997
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004B8E4E9E0000000000025B59
+t1267617438
+s154457
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004B8E4E9E0000000000003F84
+t1267617438
+s16260
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/ext/glew/include/GL/glew.h
+c0000000050931BE9000000000008267A
+t1351818217
+s534138
+i<stddef.h>
+i<OpenGL/glu.h>
+i<GL/glu.h>
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor3f.cpp
+c0000000050931BE80000000000000C1A
+t1351818216
+s3098
+i"STColor3f.h"
+i"STColor4f.h"
+i"STColor4ub.h"
+i<math.h>
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor4f.cpp
+c0000000050931BE80000000000000A5C
+t1351818216
+s2652
+i"STColor4f.h"
+i"STColor3f.h"
+i"STColor4ub.h"
+i"STUtil.h"
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor4ub.cpp
+c0000000050931BE800000000000003CA
+t1351818216
+s970
+i"STColor4ub.h"
+i"STColor3f.h"
+i"STColor4f.h"
+i"STUtil.h"
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STFont.cpp
+c0000000050931BE800000000000030F7
+t1351818216
+s12535
+i"STFont.h"
+i"st.h"
+i"stgl.h"
+i<map>
+i<vector>
+i<stdlib.h>
+i"ft2build.h"
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage.cpp
+c0000000050931BE80000000000000FFF
+t1351818216
+s4095
+i"STImage.h"
+i"stgl.h"
+i"st.h"
+i<assert.h>
+i<stdio.h>
+i<string>
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_jpeg.cpp
+c0000000050931BE800000000000014C5
+t1351818216
+s5317
+i"STImage.h"
+i"st.h"
+i<jpeglib.h>
+i<assert.h>
+i<setjmp.h>
+i<stdio.h>
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_png.cpp
+c0000000050931BE80000000000001F0F
+t1351818216
+s7951
+i"STImage.h"
+i"st.h"
+i<png.h>
+i<setjmp.h>
+i<stdio.h>
+i<string>
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_ppm.cpp
+c0000000050931BE80000000000000E8F
+t1351818216
+s3727
+i"STImage.h"
+i"st.h"
+i<string.h>
+i<stdio.h>
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STJoystick.cpp
+c0000000050931BE80000000000002A64
+t1351818216
+s10852
+i"STJoystick.h"
+i<string.h>
+i<stdio.h>
+i<stdlib.h>
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STJoystick_darwin.cpp
+c0000000050931FDC0000000000007847
+t1351819228
+s30791
+i"STJoystick.h"
+i<unistd.h>
+i<ctype.h>
+i<sysexits.h>
+i<mach/mach.h>
+i<mach/mach_error.h>
+i<IOKit/IOKitLib.h>
+i<IOKit/IOCFPlugIn.h>
+i<IOKit/hidsystem/IOHIDUsageTables.h>
+i<Kernel/IOKit/hidsystem/IOHIDUsageTables.h>
+i<IOKit/hid/IOHIDLib.h>
+i<IOKit/hid/IOHIDKeys.h>
+i<CoreFoundation/CoreFoundation.h>
+i<Carbon/Carbon.h>
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STPoint2.cpp
+c0000000050931BE80000000000000078
+t1351818216
+s120
+i"STPoint2.h"
+i"STVector2.h"
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STPoint3.cpp
+c0000000050931BE8000000000000007E
+t1351818216
+s126
+i"STPoint3.h"
+i"STVector3.h"
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STShaderProgram.cpp
+c0000000050931BE80000000000001BFE
+t1351818216
+s7166
+i"GL/glew.h"
+i"STShaderProgram.h"
+i"st.h"
+i<assert.h>
+i<string>
+i<fstream>
+i<sstream>
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STShape.cpp
+c0000000050931BE80000000000006302
+t1351818216
+s25346
+i"STShape.h"
+i"st.h"
+i"stgl.h"
+i<assert.h>
+i<stdio.h>
+i<map>
+i<math.h>
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STTexture.cpp
+c0000000050931BE80000000000000B39
+t1351818216
+s2873
+i"STTexture.h"
+i"st.h"
+i"stgl.h"
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STTimer.cpp
+c0000000050931BE8000000000000047D
+t1351818216
+s1149
+i"STTimer.h"
+i<stdlib.h>
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STVector2.cpp
+c0000000050931BE800000000000000B8
+t1351818216
+s184
+i"STVector2.h"
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STVector3.cpp
+c0000000050931BE800000000000000FC
+t1351818216
+s252
+i"STVector3.h"
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../include/STColor3f.h
+c0000000050931BE800000000000005C2
+t1351818216
+s1474
+i"stForward.h"
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../include/STColor4f.h
+c0000000050931BE80000000000000679
+t1351818216
+s1657
+i"stForward.h"
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../include/STColor4ub.h
+c0000000050931BE8000000000000038B
+t1351818216
+s907
+i"stForward.h"
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../include/STFont.h
+c0000000050931BE80000000000000D1F
+t1351818216
+s3359
+i"stForward.h"
+i"STUtil.h"
+i<string>
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../include/STImage.h
+c0000000050931BE80000000000001015
+t1351818216
+s4117
+i"STColor4ub.h"
+i"STUtil.h"
+i<string>
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../include/STJoystick.h
+c0000000050931BE80000000000001473
+t1351818216
+s5235
+i<string>
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../include/STPoint2.h
+c0000000050931BE8000000000000046D
+t1351818216
+s1133
+i"stForward.h"
+i<math.h>
+i"STPoint2.inl"
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../include/STPoint3.h
+c0000000050931BE80000000000000479
+t1351818216
+s1145
+i"stForward.h"
+i<math.h>
+i"STPoint3.inl"
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../include/STShaderProgram.h
+c0000000050931BE800000000000006E2
+t1351818216
+s1762
+i"stgl.h"
+i<string>
+i"stForward.h"
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../include/STShape.h
+c0000000050931BE800000000000019DF
+t1351818216
+s6623
+i"STColor3f.h"
+i"STPoint2.h"
+i"STPoint3.h"
+i"STTexture.h"
+i"STVector3.h"
+i<string>
+i<vector>
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../include/STTexture.h
+c0000000050931BE80000000000000C8F
+t1351818216
+s3215
+i"stgl.h"
+i"STImage.h"
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../include/STTimer.h
+c0000000050931BE8000000000000030F
+t1351818216
+s783
+i<windows.h>
+i<sys/time.h>
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../include/STUtil.h
+c0000000050931BE800000000000006F9
+t1351818216
+s1785
+i<string>
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../include/STVector2.h
+c0000000050931BE80000000000000A30
+t1351818216
+s2608
+i"stForward.h"
+i<math.h>
+i"STVector2.inl"
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../include/STVector3.h
+c0000000050931BE80000000000000A5F
+t1351818216
+s2655
+i"stForward.h"
+i<math.h>
+i"STVector3.inl"
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../include/st.h
+c0000000050931BE80000000000000214
+t1351818216
+s532
+i<string.h>
+i<stdexcept>
+i"stForward.h"
+i"STColor3f.h"
+i"STColor4f.h"
+i"STColor4ub.h"
+i"STFont.h"
+i"STImage.h"
+i"STJoystick.h"
+i"STPoint2.h"
+i"STPoint3.h"
+i"STShaderProgram.h"
+i"STShape.h"
+i"STTexture.h"
+i"STTimer.h"
+i"STUtil.h"
+i"STVector2.h"
+i"STVector3.h"
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../include/stForward.h
+c0000000050931BE80000000000000284
+t1351818216
+s644
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../include/stgl.h
+c0000000050931BE800000000000001BB
+t1351818216
+s443
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<windows.h>
+i<GL/gl.h>
+i<GL/glu.h>
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/libst.a
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STColor3f.o
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STColor4f.o
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STColor4ub.o
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STFont.o
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage.o
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage_jpeg.o
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage_png.o
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage_ppm.o
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STJoystick.o
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STJoystick_darwin.o
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STPoint2.o
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STPoint3.o
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STShaderProgram.o
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STShape.o
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STTexture.o
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STTimer.o
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STVector2.o
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STVector3.o
+t2
+s0
+
+N/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/st.LinkFileList
+c000000005099F6BC0000000000000942
+t1352267452
+s2370
+
+N/opt/local/include/freetype2/freetype/config/ftheader.h
+c000000004FDDB40A0000000000006207
+t1339929610
+s25095
+
+N/opt/local/include/ft2build.h
+c000000004FDDB40A0000000000000F32
+t1339929610
+s3890
+i<freetype/config/ftheader.h>
+
+N/opt/local/include/jconfig.h
+c000000004F4B85810000000000000650
+t1330349441
+s1616
+
+N/opt/local/include/jerror.h
+c000000004F4B858100000000000038F5
+t1330349441
+s14581
+
+N/opt/local/include/jmorecfg.h
+c000000004F4B8581000000000000310E
+t1330349441
+s12558
+
+N/opt/local/include/jpeglib.h
+c000000004F4B8581000000000000BDB9
+t1330349441
+s48569
+i"jconfig.h"
+i"jmorecfg.h"
+i"jpegint.h"
+i"jerror.h"
+
+N/opt/local/include/png.h
+c00000000506EA85B000000000001C56D
+t1349429339
+s116077
+i"pnglibconf.h"
+i<setjmp.h>
+i<time.h>
+i"pngconf.h"
+
+N/opt/local/include/pngconf.h
+c00000000506EA85B00000000000053C5
+t1349429339
+s21445
+i<limits.h>
+i<strings.h>
+i<string.h>
+i<stdio.h>
+i<dos.h>
+
+N/opt/local/include/pnglibconf.h
+c00000000506EA85B00000000000018E3
+t1349429339
+s6371
+
+N/usr/include/assert.h
+c000000004BBD2CE90000000000000DCB
+t1270689001
+s3531
+
+N/usr/include/ctype.h
+c000000004BBD2CE90000000000002C18
+t1270689001
+s11288
+
+N/usr/include/mach/mach.h
+c000000004BD247AA0000000000001057
+t1272072106
+s4183
+
+N/usr/include/mach/mach_error.h
+c000000004BD247AA0000000000000BE3
+t1272072106
+s3043
+
+N/usr/include/math.h
+c000000004AC599B500000000000004F1
+t1254463925
+s1265
+
+N/usr/include/setjmp.h
+c000000004BBD2CE90000000000000438
+t1270689001
+s1080
+
+N/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/usr/include/strings.h
+c000000004BBD2CE90000000000000DA4
+t1270689001
+s3492
+
+N/usr/include/sys/_types.h
+c000000004CC3DE680000000000001845
+t1287904872
+s6213
+
+N/usr/include/sys/time.h
+c000000004CC3DE680000000000001E17
+t1287904872
+s7703
+
+N/usr/include/sysexits.h
+c000000004BBD2CE90000000000001560
+t1270689001
+s5472
+
+N/usr/include/time.h
+c000000004BBD2CE9000000000000178E
+t1270689001
+s6030
+
+N/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+CBuild AST from /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor3f.cpp
+r0
+
+CBuild AST from /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor4f.cpp
+r0
+
+CBuild AST from /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor4ub.cpp
+r0
+
+CBuild AST from /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STFont.cpp
+r0
+
+CBuild AST from /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage.cpp
+r0
+
+CBuild AST from /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_jpeg.cpp
+r0
+
+CBuild AST from /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_png.cpp
+r0
+
+CBuild AST from /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_ppm.cpp
+r0
+
+CBuild AST from /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STJoystick.cpp
+r0
+
+CBuild AST from /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STJoystick_darwin.cpp
+r0
+
+CBuild AST from /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STPoint2.cpp
+r0
+
+CBuild AST from /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STPoint3.cpp
+r0
+
+CBuild AST from /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STShaderProgram.cpp
+r0
+
+CBuild AST from /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STShape.cpp
+r0
+
+CBuild AST from /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STTexture.cpp
+r0
+
+CBuild AST from /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STTimer.cpp
+r0
+
+CBuild AST from /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STVector2.cpp
+r0
+
+CBuild AST from /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STVector3.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies4486c93b2e4ab641^af7a6c3c2e4ab641^---0#1#0#--18"Check dependencies
+
+CCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STColor3f.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor3f.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s373960252.462407
+e373960254.942460
+r1
+xCompileC
+xbuild/libst.build/Debug/libst.build/Objects-normal/x86_64/STColor3f.o
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor3f.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor3f.cpp43e2763c2e4ab641^f5100d412e4ab641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor3f.cpp0000000000000000^1291"CompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STColor3f.o ../STColor3f.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/st.hmap -I../ext/glew/include -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/include -I/opt/local/include -I/opt/local/include/freetype2 -I/opt/local/include/freetype2/freetype -I/opt/local/include/freetype2/freetype/config -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources/x86_64 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources -F/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -c /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor3f.cpp -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STColor3f.o
+
+CCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STColor4f.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor4f.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s373960252.462422
+e373960262.582423
+r1
+xCompileC
+xbuild/libst.build/Debug/libst.build/Objects-normal/x86_64/STColor4f.o
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor4f.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor4f.cpp82e3763c2e4ab641^693be2462e4ab641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor4f.cpp0000000000000000^1291"CompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STColor4f.o ../STColor4f.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/st.hmap -I../ext/glew/include -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/include -I/opt/local/include -I/opt/local/include/freetype2 -I/opt/local/include/freetype2/freetype -I/opt/local/include/freetype2/freetype/config -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources/x86_64 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources -F/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -c /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor4f.cpp -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STColor4f.o
+
+CCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STColor4ub.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor4ub.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s373960252.462425
+e373960262.582662
+r1
+xCompileC
+xbuild/libst.build/Debug/libst.build/Objects-normal/x86_64/STColor4ub.o
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor4ub.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor4ub.cppcade763c2e4ab641^7f4de2462e4ab641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor4ub.cpp0000000000000000^1295"CompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STColor4ub.o ../STColor4ub.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/st.hmap -I../ext/glew/include -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/include -I/opt/local/include -I/opt/local/include/freetype2 -I/opt/local/include/freetype2/freetype -I/opt/local/include/freetype2/freetype/config -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources/x86_64 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources -F/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -c /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STColor4ub.cpp -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STColor4ub.o
+
+CCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STFont.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STFont.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s373960252.462445
+e373960266.473821
+r1
+xCompileC
+xbuild/libst.build/Debug/libst.build/Objects-normal/x86_64/STFont.o
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STFont.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STFont.cpp4ed4763c2e4ab641^274b794a2e4ab641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STFont.cpp0000000000000000^1279"CompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STFont.o ../STFont.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/st.hmap -I../ext/glew/include -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/include -I/opt/local/include -I/opt/local/include/freetype2 -I/opt/local/include/freetype2/freetype -I/opt/local/include/freetype2/freetype/config -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources/x86_64 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources -F/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -c /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STFont.cpp -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STFont.o
+
+CCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s373960254.943895
+e373960262.739686
+r1
+xCompileC
+xbuild/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage.o
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage.cpp10ccf13e2e4ab641^965fe2462e4ab641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage.cpp0000000000000000^1283"CompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage.o ../STImage.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/st.hmap -I../ext/glew/include -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/include -I/opt/local/include -I/opt/local/include/freetype2 -I/opt/local/include/freetype2/freetype -I/opt/local/include/freetype2/freetype/config -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources/x86_64 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources -F/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -c /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage.cpp -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage.o
+
+CCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage_jpeg.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_jpeg.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s373960252.462994
+e373960262.607702
+r1
+xCompileC
+xbuild/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage_jpeg.o
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_jpeg.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_jpeg.cppf8df763c2e4ab641^8a5ae2462e4ab641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_jpeg.cpp0000000000000000^1303"CompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage_jpeg.o ../STImage_jpeg.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/st.hmap -I../ext/glew/include -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/include -I/opt/local/include -I/opt/local/include/freetype2 -I/opt/local/include/freetype2/freetype -I/opt/local/include/freetype2/freetype/config -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources/x86_64 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources -F/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -c /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_jpeg.cpp -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage_jpeg.o
+
+CCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage_png.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_png.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s373960252.463366
+e373960262.582616
+r1
+xCompileC
+xbuild/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage_png.o
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_png.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_png.cpp5ce4763c2e4ab641^3d45e2462e4ab641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_png.cpp0000000000000000^1299"CompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage_png.o ../STImage_png.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/st.hmap -I../ext/glew/include -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/include -I/opt/local/include -I/opt/local/include/freetype2 -I/opt/local/include/freetype2/freetype -I/opt/local/include/freetype2/freetype/config -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources/x86_64 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources -F/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -c /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_png.cpp -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage_png.o
+
+CCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage_ppm.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_ppm.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s373960252.463437
+e373960262.582736
+r1
+xCompileC
+xbuild/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage_ppm.o
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_ppm.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_ppm.cpp49d9763c2e4ab641^8f51e2462e4ab641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_ppm.cpp0000000000000000^1299"CompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage_ppm.o ../STImage_ppm.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/st.hmap -I../ext/glew/include -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/include -I/opt/local/include -I/opt/local/include/freetype2 -I/opt/local/include/freetype2/freetype -I/opt/local/include/freetype2/freetype/config -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources/x86_64 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources -F/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -c /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STImage_ppm.cpp -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STImage_ppm.o
+
+CCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STJoystick.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STJoystick.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s373960262.584085
+e373960266.228876
+r1
+xCompileC
+xbuild/libst.build/Debug/libst.build/Objects-normal/x86_64/STJoystick.o
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STJoystick.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STJoystick.cpp069c95462e4ab641^6c973a4a2e4ab641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STJoystick.cpp0000000000000000^1295"CompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STJoystick.o ../STJoystick.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/st.hmap -I../ext/glew/include -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/include -I/opt/local/include -I/opt/local/include/freetype2 -I/opt/local/include/freetype2/freetype -I/opt/local/include/freetype2/freetype/config -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources/x86_64 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources -F/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -c /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STJoystick.cpp -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STJoystick.o
+
+CCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STJoystick_darwin.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STJoystick_darwin.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s373960262.583679
+e373960269.220089
+r1
+xCompileC
+xbuild/libst.build/Debug/libst.build/Objects-normal/x86_64/STJoystick_darwin.o
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STJoystick_darwin.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STJoystick_darwin.cppdc7e95462e4ab641^0857384d2e4ab641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STJoystick_darwin.cpp0000000000000000^1323"CompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STJoystick_darwin.o ../STJoystick_darwin.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/st.hmap -I../ext/glew/include -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/include -I/opt/local/include -I/opt/local/include/freetype2 -I/opt/local/include/freetype2/freetype -I/opt/local/include/freetype2/freetype/config -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources/x86_64 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources -F/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -c /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STJoystick_darwin.cpp -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STJoystick_darwin.o
+
+CCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STPoint2.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STPoint2.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s373960262.584096
+e373960262.884986
+r1
+xCompileC
+xbuild/libst.build/Debug/libst.build/Objects-normal/x86_64/STPoint2.o
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STPoint2.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STPoint2.cpp9a9595462e4ab641^5b0be3462e4ab641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STPoint2.cpp0000000000000000^1287"CompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STPoint2.o ../STPoint2.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/st.hmap -I../ext/glew/include -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/include -I/opt/local/include -I/opt/local/include/freetype2 -I/opt/local/include/freetype2/freetype -I/opt/local/include/freetype2/freetype/config -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources/x86_64 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources -F/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -c /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STPoint2.cpp -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STPoint2.o
+
+CCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STPoint3.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STPoint3.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s373960262.584107
+e373960262.885069
+r1
+xCompileC
+xbuild/libst.build/Debug/libst.build/Objects-normal/x86_64/STPoint3.o
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STPoint3.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STPoint3.cppc49795462e4ab641^ed10e3462e4ab641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STPoint3.cpp0000000000000000^1287"CompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STPoint3.o ../STPoint3.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/st.hmap -I../ext/glew/include -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/include -I/opt/local/include -I/opt/local/include/freetype2 -I/opt/local/include/freetype2/freetype -I/opt/local/include/freetype2/freetype/config -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources/x86_64 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources -F/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -c /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STPoint3.cpp -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STPoint3.o
+
+CCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STShaderProgram.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STShaderProgram.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s373960262.585165
+e373960269.055522
+r1
+xCompileC
+xbuild/libst.build/Debug/libst.build/Objects-normal/x86_64/STShaderProgram.o
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STShaderProgram.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STShaderProgram.cpp55db95462e4ab641^a4350e4d2e4ab641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STShaderProgram.cpp0000000000000000^1315"CompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STShaderProgram.o ../STShaderProgram.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/st.hmap -I../ext/glew/include -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/include -I/opt/local/include -I/opt/local/include/freetype2 -I/opt/local/include/freetype2/freetype -I/opt/local/include/freetype2/freetype/config -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources/x86_64 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources -F/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -c /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STShaderProgram.cpp -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STShaderProgram.o
+
+CCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STShape.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STShape.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s373960262.608942
+e373960269.541283
+r1
+xCompileC
+xbuild/libst.build/Debug/libst.build/Objects-normal/x86_64/STShape.o
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STShape.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STShape.cpp5ef69b462e4ab641^12a48a4d2e4ab641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STShape.cpp0000000000000000^1283"CompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STShape.o ../STShape.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/st.hmap -I../ext/glew/include -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/include -I/opt/local/include -I/opt/local/include/freetype2 -I/opt/local/include/freetype2/freetype -I/opt/local/include/freetype2/freetype/config -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources/x86_64 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources -F/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -c /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STShape.cpp -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STShape.o
+
+CCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STTexture.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STTexture.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s373960262.740863
+e373960267.720591
+r1
+xCompileC
+xbuild/libst.build/Debug/libst.build/Objects-normal/x86_64/STTexture.o
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STTexture.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STTexture.cpp93c9bd462e4ab641^f27ab84b2e4ab641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STTexture.cpp0000000000000000^1291"CompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STTexture.o ../STTexture.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/st.hmap -I../ext/glew/include -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/include -I/opt/local/include -I/opt/local/include/freetype2 -I/opt/local/include/freetype2/freetype -I/opt/local/include/freetype2/freetype/config -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources/x86_64 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources -F/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -c /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STTexture.cpp -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STTexture.o
+
+CCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STTimer.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STTimer.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s373960262.886181
+e373960262.962105
+r1
+xCompileC
+xbuild/libst.build/Debug/libst.build/Objects-normal/x86_64/STTimer.o
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STTimer.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STTimer.cpp40fae2462e4ab641^fd4bf6462e4ab641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STTimer.cpp0000000000000000^1283"CompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STTimer.o ../STTimer.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/st.hmap -I../ext/glew/include -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/include -I/opt/local/include -I/opt/local/include/freetype2 -I/opt/local/include/freetype2/freetype -I/opt/local/include/freetype2/freetype/config -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources/x86_64 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources -F/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -c /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STTimer.cpp -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STTimer.o
+
+CCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STVector2.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STVector2.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s373960262.886828
+e373960266.061203
+r1
+xCompileC
+xbuild/libst.build/Debug/libst.build/Objects-normal/x86_64/STVector2.o
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STVector2.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STVector2.cppcd1fe3462e4ab641^37aa0f4a2e4ab641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STVector2.cpp0000000000000000^1291"CompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STVector2.o ../STVector2.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/st.hmap -I../ext/glew/include -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/include -I/opt/local/include -I/opt/local/include/freetype2 -I/opt/local/include/freetype2/freetype -I/opt/local/include/freetype2/freetype/config -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources/x86_64 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources -F/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -c /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STVector2.cpp -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STVector2.o
+
+CCompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STVector3.o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STVector3.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s373960252.462405
+e373960262.582634
+r1
+xCompileC
+xbuild/libst.build/Debug/libst.build/Objects-normal/x86_64/STVector3.o
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STVector3.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STVector3.cppf4e0763c2e4ab641^6f49e2462e4ab641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STVector3.cpp0000000000000000^1291"CompileC build/libst.build/Debug/libst.build/Objects-normal/x86_64/STVector3.o ../STVector3.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -gdwarf-2 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/st.hmap -I../ext/glew/include -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/include -I/opt/local/include -I/opt/local/include/freetype2 -I/opt/local/include/freetype2/freetype -I/opt/local/include/freetype2/freetype/config -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources/x86_64 -I/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/DerivedSources -F/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -c /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/../STVector3.cpp -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/STVector3.o
+
+CLibtool /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/libst.a normal x86_64
+s373960269.542483
+e373960269.652428
+r1
+xLibtool
+x/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/libst.a
+xnormal
+xx86_64
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Libtool build/Debug/libst.a normal x86_64bbed8a4d2e4ab641^d905a74d2e4ab641^---0#0#0#--471"Libtool build/Debug/libst.a normal x86_64    cd /Users/katherinechen/Developer/cs148/assignment6/libst/xcode    /Developer/usr/bin/libtool -static -arch_only x86_64 -L/Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug -filelist /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/libst.build/Debug/libst.build/Objects-normal/x86_64/st.LinkFileList -o /Users/katherinechen/Developer/cs148/assignment6/libst/xcode/build/Debug/libst.a
+
